@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning in Pontificia Universidad Catolica<br>🎯 Goals: Create a video Game<br>🎲 Fun fact: I love pokemon</p>
+<p align="left">📚 I'm currently working<br>🎯 Goals: Create a video Game<br>🎲 Fun fact: I love pokemon</p>
 
 ###
 
