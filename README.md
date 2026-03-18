@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently working<br>🎯 Goals: Create a video Game<br>🎲 Fun fact: I love pokemon</p>
+<p align="left">📚 I'm currently working at abaqus(fintech)<br>🎯 Goals: Create a video Game<br>🎲 Fun fact: I love pokemon</p>
 
 ###
 
