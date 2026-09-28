@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently working at abaqus(fintech)<br>🎯 Goals: Create a video Game<br>🎲</p>
+<p align="left">📚 I'm currently working at abaqus(fintech)<br>🎯 Goals: Create a video Game<br>🎲 working on Recta provincia</p>
 
 ###
 
